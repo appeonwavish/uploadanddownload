@@ -33,5 +33,6 @@ destroy(message)
 end on
 
 event open;open(testwin)
+//test pull
 end event
 

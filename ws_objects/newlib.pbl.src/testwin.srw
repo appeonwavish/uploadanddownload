@@ -31,6 +31,10 @@ on testwin.destroy
 destroy(this.cb_1)
 end on
 
+event open;//test pull
+
+end event
+
 type cb_1 from commandbutton within testwin
 integer x = 622
 integer y = 512
