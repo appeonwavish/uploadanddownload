@@ -33,7 +33,7 @@ destroy(message)
 end on
 
 event open;open(testwin)
-//test pull1111111---d
+//test pull1111111---1
 
 end event
 
