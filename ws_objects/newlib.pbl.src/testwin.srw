@@ -31,7 +31,7 @@ on testwin.destroy
 destroy(this.cb_1)
 end on
 
-event open;//test pull111111--configl
+event open;//test pull111111--config
 
 end event
 
